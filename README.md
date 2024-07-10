@@ -8,4 +8,5 @@ Python libraries to install:
  -> We use binary classification in which output is either 0 or 1.
  -> We follow supervised learning where we define set of inputs and outputs classes and train them to recognise using photos.
 
--> First create images dataset of any two objects(for eg here we taken orange and watermelon) 
+-> First create images dataset of any two objects(for eg here we taken orange and watermelon)
+-> Then training takes place using deep learning techniques, finally testing happens.
